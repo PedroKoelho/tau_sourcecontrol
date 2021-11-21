@@ -1,4 +1,6 @@
-# TAU - Source Control for Test Automation with Git
+# Test Automation University
 
-## Exercícios do Curso
+## Source Control for Test Automation with Git
+
+### Exercícios do Curso
 
